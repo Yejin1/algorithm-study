@@ -1,7 +1,9 @@
 package boj;
 
-// 백준 12865 평범한 배낭
+// 백준
+// 12865 평범한 배낭
 // https://www.acmicpc.net/problem/12865
+// 유형 : DP
 // 1차원 배열로 풀기
 
 import java.util.Scanner;

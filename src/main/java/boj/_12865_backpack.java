@@ -1,6 +1,8 @@
 package boj;
 
-// 백준 12865 평범한 배낭
+// 백준
+// 12865 평범한 배낭
+// 유형 : DP
 // https://www.acmicpc.net/problem/12865
 
 import java.util.Scanner;
