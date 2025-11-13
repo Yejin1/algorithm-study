@@ -20,8 +20,9 @@ public class _1495_guitarist {
         m = sc.nextInt();
 
         int[] v = new int[n];
-        Set<Integer>[] volumes = new HashSet[n];
-        
+        Set<Integer>[] volumes;
+        volumes = new HashSet[n];
+
         for (int i = 0; i < n; i++) {
             v[i] = sc.nextInt();
         }
