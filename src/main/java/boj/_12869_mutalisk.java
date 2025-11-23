@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class _12869_mutalisk {
     public static void main(String[] args) {
-        //첫째 줄에 SCV의 수 N (1 ≤ N ≤ 3)이 주어진다. 둘째 줄에는 SCV N개의 체력이 주어진다. 체력은 60보다 작거나 같은 자연수이다.
+        //첫째 줄에 SCV의 수 N (1 ≤ N ≤ 3)이 주어진다. 둘째 줄에는 SCV N개의 체력이 주어진다. 체력은 60보다 작거나 같은 자연수이다.;
+
+        //!!!!!!!!! 아직 안풀었음!!!!!!!!!!!!!!!!!!!!!!!
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] scv = new int[n];
