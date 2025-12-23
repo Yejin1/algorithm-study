@@ -36,8 +36,8 @@ public class _1765_unheard {
         Collections.sort(unheard);
 
         System.out.println(unheard.size());
-        for (int i = 0; i < unheard.size(); i++) {
-            System.out.println(unheard.get(i));
+        for (String s : unheard) {
+            System.out.println(s);
         }
     }
 }
